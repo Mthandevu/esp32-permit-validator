@@ -18,8 +18,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "HUAWEI-E456";
-const char* password = "51B7QLRH371";
+const char* ssid = "Mthandevu";
+const char* password = "deli@mtha123M";
 
 void startCameraServer();
 void setupLedFlash(int pin);
