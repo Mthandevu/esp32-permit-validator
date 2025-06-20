@@ -14,8 +14,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "Lindelwa";
-const char* password = "123456789";
+const char* ssid = "Mthandevu";
+const char* password = "deli@mtha123M";
 
 // ===========================
 // Keypad configuration
