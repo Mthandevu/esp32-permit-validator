@@ -1,0 +1,23 @@
+{
+  "name": "law_permit_chcker",
+  "version": "1.0.0",
+  "description": "Tool to be used by law enforcement to validate drivers' vehicle permits.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./web/static/web/src/input.css -o ./web/static/web/output.css --watch",
+    "build": "npx tailwindcss -i ./web/static/web/src/input.css -o ./web/static/web/output.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Django",
+    "Permits",
+    "Arduino",
+    "Law",
+    "enforcement"
+  ],
+  "author": "Dlamini Lindelwa",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
